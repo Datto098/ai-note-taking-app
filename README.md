@@ -92,6 +92,4 @@ MIT License
 
 ## Liên hệ
 
-[Your Name] - [Your Email]
-
 Project Link: [https://github.com/Datto098/ai-note-taking-app](https://github.com/Datto098/ai-note-taking-app)
